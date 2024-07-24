@@ -1,0 +1,12 @@
+{
+  "name": "0x01-ES6_promise",
+  "version": "1.0.0",
+  "description": "task 0:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
